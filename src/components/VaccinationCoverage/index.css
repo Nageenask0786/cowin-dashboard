@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.bar {
+  border-radius: 4px;
+  font-family: 'Roboto';
+}
+.class {
+  background-color: #1c1c2b;
+  border-radius: 4px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 20px;
+}
+.head {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 19px;
+  padding-left: 10px;
+  padding-top: 0px;
+}
+.c {
+  display: flex;
+  flex-direction: column;
+}

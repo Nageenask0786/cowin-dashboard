@@ -1,0 +1,35 @@
+.dash-board-container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  background-color: #161625;
+  min-height: 100vh;
+}
+.recharts-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image {
+  height: 38px;
+  width: 40px;
+}
+.logo-container {
+  display: flex;
+  margin-left: 20px;
+  margin-left: 130px;
+}
+.heading {
+  color: #a3df9f;
+  font-family: 'Roboto';
+  font-size: 19px;
+  padding-left: 10px;
+  padding-top: 0px;
+}
+.heading2 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 19px;
+  margin-left: 130px;
+  padding-top: 0px;
+}
